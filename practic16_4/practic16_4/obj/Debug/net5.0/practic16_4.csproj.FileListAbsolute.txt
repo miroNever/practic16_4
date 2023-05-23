@@ -1,0 +1,32 @@
+C:\Users\305-10\source\repos\practic16_4\practic16_4\obj\Debug\net5.0\practic16_4.csproj.AssemblyReference.cache
+C:\Users\305-10\source\repos\practic16_4\practic16_4\obj\Debug\net5.0\practic16_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\305-10\source\repos\practic16_4\practic16_4\obj\Debug\net5.0\practic16_4.AssemblyInfoInputs.cache
+C:\Users\305-10\source\repos\practic16_4\practic16_4\obj\Debug\net5.0\practic16_4.AssemblyInfo.cs
+C:\Users\305-10\source\repos\practic16_4\practic16_4\obj\Debug\net5.0\practic16_4.csproj.CoreCompileInputs.cache
+C:\Users\305-10\source\repos\practic16_4\practic16_4\bin\Debug\net5.0\practic16_4.exe
+C:\Users\305-10\source\repos\practic16_4\practic16_4\bin\Debug\net5.0\practic16_4.deps.json
+C:\Users\305-10\source\repos\practic16_4\practic16_4\bin\Debug\net5.0\practic16_4.runtimeconfig.json
+C:\Users\305-10\source\repos\practic16_4\practic16_4\bin\Debug\net5.0\practic16_4.runtimeconfig.dev.json
+C:\Users\305-10\source\repos\practic16_4\practic16_4\bin\Debug\net5.0\practic16_4.dll
+C:\Users\305-10\source\repos\practic16_4\practic16_4\bin\Debug\net5.0\ref\practic16_4.dll
+C:\Users\305-10\source\repos\practic16_4\practic16_4\bin\Debug\net5.0\practic16_4.pdb
+C:\Users\305-10\source\repos\practic16_4\practic16_4\obj\Debug\net5.0\practic16_4.dll
+C:\Users\305-10\source\repos\practic16_4\practic16_4\obj\Debug\net5.0\ref\practic16_4.dll
+C:\Users\305-10\source\repos\practic16_4\practic16_4\obj\Debug\net5.0\practic16_4.pdb
+C:\Users\305-10\source\repos\practic16_4\practic16_4\obj\Debug\net5.0\practic16_4.genruntimeconfig.cache
+C:\Users\305-10\Desktop\Practik2_Poleev Andrey _pr21\practic16_4\practic16_4\bin\Debug\net5.0\practic16_4.exe
+C:\Users\305-10\Desktop\Practik2_Poleev Andrey _pr21\practic16_4\practic16_4\bin\Debug\net5.0\practic16_4.deps.json
+C:\Users\305-10\Desktop\Practik2_Poleev Andrey _pr21\practic16_4\practic16_4\bin\Debug\net5.0\practic16_4.runtimeconfig.json
+C:\Users\305-10\Desktop\Practik2_Poleev Andrey _pr21\practic16_4\practic16_4\bin\Debug\net5.0\practic16_4.runtimeconfig.dev.json
+C:\Users\305-10\Desktop\Practik2_Poleev Andrey _pr21\practic16_4\practic16_4\bin\Debug\net5.0\practic16_4.dll
+C:\Users\305-10\Desktop\Practik2_Poleev Andrey _pr21\practic16_4\practic16_4\bin\Debug\net5.0\ref\practic16_4.dll
+C:\Users\305-10\Desktop\Practik2_Poleev Andrey _pr21\practic16_4\practic16_4\bin\Debug\net5.0\practic16_4.pdb
+C:\Users\305-10\Desktop\Practik2_Poleev Andrey _pr21\practic16_4\practic16_4\obj\Debug\net5.0\practic16_4.csproj.AssemblyReference.cache
+C:\Users\305-10\Desktop\Practik2_Poleev Andrey _pr21\practic16_4\practic16_4\obj\Debug\net5.0\practic16_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\305-10\Desktop\Practik2_Poleev Andrey _pr21\practic16_4\practic16_4\obj\Debug\net5.0\practic16_4.AssemblyInfoInputs.cache
+C:\Users\305-10\Desktop\Practik2_Poleev Andrey _pr21\practic16_4\practic16_4\obj\Debug\net5.0\practic16_4.AssemblyInfo.cs
+C:\Users\305-10\Desktop\Practik2_Poleev Andrey _pr21\practic16_4\practic16_4\obj\Debug\net5.0\practic16_4.csproj.CoreCompileInputs.cache
+C:\Users\305-10\Desktop\Practik2_Poleev Andrey _pr21\practic16_4\practic16_4\obj\Debug\net5.0\practic16_4.dll
+C:\Users\305-10\Desktop\Practik2_Poleev Andrey _pr21\practic16_4\practic16_4\obj\Debug\net5.0\ref\practic16_4.dll
+C:\Users\305-10\Desktop\Practik2_Poleev Andrey _pr21\practic16_4\practic16_4\obj\Debug\net5.0\practic16_4.pdb
+C:\Users\305-10\Desktop\Practik2_Poleev Andrey _pr21\practic16_4\practic16_4\obj\Debug\net5.0\practic16_4.genruntimeconfig.cache
